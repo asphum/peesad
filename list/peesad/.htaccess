@@ -1,0 +1,9 @@
+Options +FollowSymlinks
+Options -Indexes
+
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+AddDefaultCharset UTF-8
+DirectoryIndex ./index.php
+RewriteRule ^(.*)$ ./index.php?route=$1 [L,QSA] 

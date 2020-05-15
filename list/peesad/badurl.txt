@@ -1,0 +1,2 @@
+
+88.147.174.32=public/manifests/

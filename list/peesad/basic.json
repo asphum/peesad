@@ -1,0 +1,38 @@
+{
+    "ManifestVersion": 2,
+    "Date": "2020-01-10T20:24:59.112195Z",
+    "News": {
+        "Blogs": [
+
+        ]
+    },
+    "Administrators": [
+
+    ],
+    "Heroes": [
+
+    ],
+    "SentryUrl": "https://6975b41a59924b48bac4fa8a40117a2d:01fd52e3df8c48488e2d90fcf0634f2e@sentry.io/51079",
+    "DatabaseUrl": null,
+    "FeedbackUrl": "https://api.facepunch.com/api/public/feedback/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "ReportUrl": "https://api.facepunch.com/api/public/feedback/report/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "LeaderboardUrl": null,
+    "BenchmarkUrl": "https://api.facepunch.com/api/public/benchmark/add/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "AccountUrl": "https://api.facepunch.com/api/public/account/{action}/?public_key=j0VF6sNnzn9rwt9qTZtI02zTYK8PRdN1",
+    "Servers": {
+        "Official": [{
+                "Address": "103.22.181.140",
+                "Port": "10001",
+                "Tags": ""
+            },
+            {
+                "Address": "103.22.181.140",
+                "Port": "10002",
+                "Tags": ""
+            }
+        ],
+        "Banned": [
+
+        ]
+    }
+}
